@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume-react/static/css/main.0761a4e1.chunk.css",
+    "main.js": "/resume-react/static/js/main.955a7abe.chunk.js",
+    "main.js.map": "/resume-react/static/js/main.955a7abe.chunk.js.map",
+    "runtime-main.js": "/resume-react/static/js/runtime-main.bb169039.js",
+    "runtime-main.js.map": "/resume-react/static/js/runtime-main.bb169039.js.map",
+    "static/js/2.964e745e.chunk.js": "/resume-react/static/js/2.964e745e.chunk.js",
+    "static/js/2.964e745e.chunk.js.map": "/resume-react/static/js/2.964e745e.chunk.js.map",
+    "index.html": "/resume-react/index.html",
+    "precache-manifest.0ccd31fe157e8a27fa3a210605c075e4.js": "/resume-react/precache-manifest.0ccd31fe157e8a27fa3a210605c075e4.js",
+    "service-worker.js": "/resume-react/service-worker.js",
+    "static/css/main.0761a4e1.chunk.css.map": "/resume-react/static/css/main.0761a4e1.chunk.css.map",
+    "static/js/2.964e745e.chunk.js.LICENSE.txt": "/resume-react/static/js/2.964e745e.chunk.js.LICENSE.txt",
+    "static/media/person.svg": "/resume-react/static/media/person.7ad1f30c.svg",
+    "static/media/person2.svg": "/resume-react/static/media/person2.27c8b601.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb169039.js",
+    "static/js/2.964e745e.chunk.js",
+    "static/css/main.0761a4e1.chunk.css",
+    "static/js/main.955a7abe.chunk.js"
+  ]
+}
